@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! Passionate Cybersecurity Analyst, <a href="https://www.linkedin.com/in/rsaldana7/"></a>,
+<h1>Hi, I'm Ricardo! Passionate Cybersecurity Analyst
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects </b>
